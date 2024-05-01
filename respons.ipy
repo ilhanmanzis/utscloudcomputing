@@ -13,3 +13,6 @@ while True:
     client.send(data.encode())
 
     client.close()
+
+
+    # COBA
